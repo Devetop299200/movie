@@ -23,3 +23,5 @@ npm run build
 npm run build --report
 ```
 
+#deploy.sh
+`sh deploy.sh`
